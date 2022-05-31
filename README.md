@@ -11,6 +11,15 @@ P-Denny Obfuscation Devlivery (POD) is the #1 source for Lua Obfuscation. Turn s
 
 To use POD first go ahead and download this repository by clicking the green button above. Then select "Download as ZIP". After downloading, unpack the ZIP file and extract it's contents. Now open the Script.lua file and replace the text inside with the script you want to be obfuscated and save it. Then open "POD.exe" and wait for it to finish (usually 10-15 sec.). Then close POD and open the Obfuscated.lua file and then you will have your obfuscated code.
 
+# Installation
+
+Installing POD is easy! Just go to the [releases](https://github.com/P-DennyGamingYT/releases/latest) and download the latest version with whatever your os is.
+
+`x86 = 32bit
+x64 = 64bit`
+
+After that, go ahead and extract the zip file to whereever you want POD stored. Now you can get to obfuscating!
+
 # Credits
 
 Made By [Payson Holmes](https://github.com/P-DennyGamingYT/)
