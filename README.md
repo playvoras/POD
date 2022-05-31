@@ -15,4 +15,4 @@ To use POD first go ahead and download this repository by clicking the green but
 
 Made By [Payson Holmes](https://github.com/P-DennyGamingYT/)
 
-&copy 2022 - PDennSploit Softworks LLC
+&copy; 2022 - PDennSploit Softworks LLC
