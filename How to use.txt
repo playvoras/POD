@@ -1,0 +1,11 @@
+Using POD is easy! This is a phsical version just in case you dont have access to the internet.
+
+Step 1: Clear "Script.lua" and put your script in.
+
+Step 2: Run "POD.exe" and wait for it to finish.
+
+Step 3: Open Out.lua for your obfuscated code!
+
+Credits:
+
+Made By Payson Holmes
